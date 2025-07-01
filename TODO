@@ -4,7 +4,7 @@ Tag 1:
         ☐ Integer
         ☐ Float
         ☐ String
-        ☐ Bytes
+        ☐ Bytes / Bytearray
     ☐ Datenstrukturen
         ☐ List (List Comprehension ?)
         ☐ Tuple
