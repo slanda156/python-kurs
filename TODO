@@ -1,0 +1,62 @@
+Tag 1:
+    ☐ Variablen
+        ☐ Bool
+        ☐ Integer
+        ☐ Float
+        ☐ String
+        ☐ Bytes
+    ☐ Datenstrukturen
+        ☐ List (List Comprehension ?)
+        ☐ Tuple
+        ☐ Dictionary
+        ☐ Set
+    ☐ Kontrollstrukturen
+        ☐ if elif else
+        ☐ match case
+        ☐ in
+        ☐ and or not
+        ☐ isinstance
+    ☐ Schleifen
+        ☐ for
+        ☐ while
+        ☐ break continue
+Tag 2:
+    ☐ Type Hints
+    ☐ Funktionen
+        ☐ def
+        ☐ Type Hints
+        ☐ recursive
+        ☐ Decorators ?
+    ☐ Struktur Python Scripts
+        ☐ Import reinfolge
+        ☐ Leere Zeilen
+        ☐ Kommentare
+        ☐ Docstrings
+        ☐ Imports -> Konstaten -> Klassen -> Funktionen -> Code
+    ☐ Struktur Python Projekte
+        ☐ src
+        ☐ tests
+        ☐ docs
+        ☐ Vorlage Vorstellen
+    ☐ Imports & Module
+        ☐ Module erklären
+        ☐ import from
+        ☐ __init__.py
+        ☐ Unter Module
+    ☐ pip
+        ☐ pip install
+        ☐ pip freeze
+        ☐ requirements.txt
+Tag 3:
+    ☐ Wichtige Module
+        ☐ pathlib
+        ☐ time
+        ☐ datetime
+        ☐ re
+        ☐ random
+        ☐ logging (basics)
+    ☐ Turtle
+        ☐ Basics
+        ☐ Verschiedene Formen erstellen
+        ☐ Wiederholung
+        ☐ Demo Projekt vorstellen
