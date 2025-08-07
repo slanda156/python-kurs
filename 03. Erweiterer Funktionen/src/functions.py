@@ -1,5 +1,6 @@
 import random
 
+
 def hello() -> None:
     a: int = 1
     b: list[float] = [1.0, 2.0, 3.0]
@@ -11,7 +12,7 @@ def add(a: int, b: int) -> int:
     return a + b
 
 
-def fibonacci(n: int, seq: list[int]) -> None:
+def fibonacci(n: int, seq: list[int | float]) -> None:
     """Generate Fibonacci sequence up to n and append to seq.
 
     Arguments:
