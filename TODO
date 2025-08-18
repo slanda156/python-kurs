@@ -26,6 +26,15 @@ Tag 2:
         ☐ def
         ☐ Type Hints
         ☐ Recursive
+    ☐ Imports & Module
+        ☐ Module erklären
+        ☐ import from
+        ☐ __init__.py
+        ☐ Unter Module
+    ☐ pip
+        ☐ pip install
+        ☐ pip freeze
+        ☐ requirements.txt / requirements.in
     ☐ Struktur Python Scripts
         ☐ Import reinfolge
         ☐ Leere Zeilen
@@ -37,15 +46,6 @@ Tag 2:
         ☐ tests
         ☐ docs
         ☐ Vorlage Vorstellen
-    ☐ Imports & Module
-        ☐ Module erklären
-        ☐ import from
-        ☐ __init__.py
-        ☐ Unter Module
-    ☐ pip
-        ☐ pip install
-        ☐ pip freeze
-        ☐ requirements.txt
 Tag 3:
     ☐ Wichtige Module
         ☐ typing
@@ -54,10 +54,15 @@ Tag 3:
         ☐ datetime
         ☐ re
         ☐ random
-        ☐ logging (basics)
+        ☐ logging
         ☐ pip-tools
     ☐ Turtle
         ☐ Basics
-        ☐ Verschiedene Formen erstellen
-        ☐ Wiederholung
+        ☐ Aufgaben
+            ☐ Dreieck
+            ☐ Quadrat
+            ☐ n-Ecken Form Funktion
+            ☐ Kreis
+            ☐ Haus des Nikolaus
+            ☐ Stern
         ☐ Demo Projekt vorstellen
