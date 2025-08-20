@@ -65,10 +65,11 @@ def drawHouse(t: turtle.Turtle, pos: tuple[int, int], size: int) -> None:
 
 
 t = turtle.Turtle()
-t.speed(1)
+t.speed(5)
 drawTriangle(t, (0, 0), 50)
 drawSquare(t, (100, 0), 50)
 drawCircle(t, (200, 0), 50)
 drawPolygon(t, (300, 0), 50, 6)
+drawPolygon(t, (300, 0), 50, 12)
 drawHouse(t, (-200, 0), 50)
 turtle.done()
