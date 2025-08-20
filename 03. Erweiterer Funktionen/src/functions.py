@@ -8,8 +8,20 @@ def hello() -> None:
     print("Hello, World!")
 
 
-def add(a: int, b: int) -> int:
-    return a + b
+def add(a: int, b: int, c:int = 0) -> int:
+    """_summary_
+
+    Arguments:
+        a -- _description_
+        b -- _description_
+
+    Keyword Arguments:
+        c -- _description_ (default: {0})
+
+    Returns:
+        _description_
+    """
+    return a + b + c
 
 
 def fibonacci(n: int, seq: list[int | float]) -> None:

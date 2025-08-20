@@ -1,14 +1,18 @@
+import random
+
+import numpy as np
+
 import src.structure
 import src.structure as struc
-from src import functions
+from src import functions as func
 from src.functions import dice
 
 
 def main():
-    functions.hello()
+    func.hello()
     dice()
     seq = []
-    functions.fibonacci(10, seq)
+    func.fibonacci(10, seq)
     print(f"Fibonacci sequence up to 10: {seq}")
 
 
